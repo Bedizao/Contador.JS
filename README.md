@@ -1,2 +1,2 @@
 # Contador.JS
-Primeiro projeto aprendendo JavaScript
+Contador Simples com HTML e JS 
